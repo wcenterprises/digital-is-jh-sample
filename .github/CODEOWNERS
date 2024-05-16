@@ -1,8 +1,8 @@
 #
-# CODEOWNERS Generated [DATE]
+# CODEOWNERS Generated 5/16/2024 9:42:54 PM
 #
 
-* @wcenterprises/digital-is-superusers [CODE-OWNERS]
+* @wcenterprises/digital-is-superusers @banno/team name owner2@email.com @github user name
 
 *.yml @wcenterprises/digital-is-build
 /build/ @wcenterprises/digital-is-build
